@@ -7,8 +7,7 @@ Create a Simple Database App: Connecting to MySQL with PHP
 ## Lessons
 
 - Install database and create table
-- Submit users
-- Query and filter users
+- Read information from tables and render as tables.
 
 ## License
 
