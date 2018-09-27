@@ -9,6 +9,3 @@ Create a Simple Database App: Connecting to MySQL with PHP
 - Install database and create table
 - Read information from tables and render as tables.
 
-## License
-
-The code is open source and available under the [MIT License](LICENSE.md).
